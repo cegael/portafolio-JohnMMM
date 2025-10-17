@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "titulo": "Soldar ideas y líneas de código",
+      "descripcion": "Cómo la soldadura me enseñó a tener paciencia, precisión y creatividad para programar mejor.",
+      "imagen": "images/soldadura-codigo.jpg",
+      "link": "#",
+      "fecha": "2025-10-10",
+      "categoria": "Reflexión"
+    },
+    {
+      "id": 2,
+      "titulo": "El taller digital: de las chispas al teclado",
+      "descripcion": "Mi viaje desde el ruido del taller hasta el sonido del teclado, combinando lo mejor de ambos mundos.",
+      "imagen": "images/taller-digital.jpg",
+      "link": "#",
+      "fecha": "2025-10-12",
+      "categoria": "Historia"
+    },
+    {
+      "id": 3,
+      "titulo": "Proyectos que brillan como metal fundido",
+      "descripcion": "Consejos para mostrar tus trabajos de soldadura y desarrollo web de forma profesional y atractiva.",
+      "imagen": "images/proyectos-metal.jpg",
+      "link": "#",
+      "fecha": "2025-10-14",
+      "categoria": "Inspiración"
+    }
+  ]
+  
