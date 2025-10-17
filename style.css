@@ -258,6 +258,24 @@
     color: #ffb400;
     margin-bottom: 0.5rem;
   }
+
+  /* ==== Imagen de proyecto ==== */
+.img-proyecto {
+  width: 100%;
+  height: 180px; /* puedes ajustar el alto a tu gusto */
+  object-fit: cover; /* recorta sin deformar */
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  border: 1px solid rgba(255, 180, 0, 0.3);
+  box-shadow: 0 0 10px rgba(255, 180, 0, 0.1);
+}
+
+.proyecto:hover .img-proyecto {
+  transform: scale(1.05);
+  box-shadow: 0 0 20px rgba(255, 180, 0, 0.3);
+  transition: all 0.3s ease;
+}
+
   
   /* ====== HABILIDADES ====== */
   #habilidades ul {
