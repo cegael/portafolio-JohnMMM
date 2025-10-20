@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Función para cargar los posts desde el archivo JSON
     const cargarPosts = async () => {
       try {
-        const respuesta = await fetch("posts.json");
+        const respuesta = await fetch("./posts.json");
         const posts = await respuesta.json();
   
         mostrarPosts(posts);
